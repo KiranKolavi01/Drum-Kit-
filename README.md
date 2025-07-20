@@ -53,6 +53,7 @@ If you want to run this locally:
 git clone https://github.com/KiranKolavi01/Drum-Kit-Project.git
 cd Drum-Kit-Project
 open index.html in your browser
+----
 
 
 ## 👤 Author
