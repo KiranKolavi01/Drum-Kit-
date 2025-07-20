@@ -26,7 +26,6 @@ A fun and interactive Drum Kit web app built using **HTML**, **CSS**, and **Java
 2. **Press** the keys: `w`, `a`, `s`, `d`, `j`, `k`, `l` on your keyboard
 3. Enjoy the drum sounds and visual effects 🎶
 
----
 
 ## 🗂️ Project Structure
 
@@ -54,6 +53,8 @@ git clone https://github.com/KiranKolavi01/Drum-Kit-Project.git
 cd Drum-Kit-Project
 open index.html in your browser
 
+
 🧑‍💻 Author
 Made with ❤️ by Kiran Kolavi
+
 
