@@ -47,7 +47,7 @@ Drum Kit Completed/
 
 ## 👤 Author
 Kiran Kolavi
-Made with ❤️ in India.
+- Made with ❤️ in India.
 
 
 ## 📦 Setup Instructions
