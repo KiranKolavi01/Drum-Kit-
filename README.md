@@ -54,7 +54,8 @@ cd Drum-Kit-Project
 open index.html in your browser
 
 
-🧑‍💻 Author
-Made with ❤️ by Kiran Kolavi
+👤 Author
+Kiran Kolavi
+Made with ❤️ in India.
 
 
